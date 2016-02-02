@@ -1,0 +1,9 @@
+{
+  "extends": "google",
+  "globals": {
+    "jasmine": false,
+    "describe": false,
+    "it": false,
+    "expect": false
+  }
+}
